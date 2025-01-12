@@ -527,7 +527,7 @@ function toggleGoogleTranslateWidget() {
   <string role="key" value="_intendedEndUserRoleType"></string>
   <unicode value="learner"></unicode>
   <string role="key" value="_isChanged"></string>
-  <bool value="0"></bool>
+  <bool value="1"></bool>
   <string role="key" value="_isTemplate"></string>
   <bool value="0"></bool>
   <string role="key" value="_lang"></string>
@@ -1196,7 +1196,7 @@ document.addEventListener(&quot;DOMContentLoaded&quot;, function() {
       <instance class="exe.engine.node.Node" reference="12">
        <dictionary>
         <string role="key" value="_title"></string>
-        <unicode value="- Kredituak eta Deskarga -"></unicode>
+        <unicode value="Kredituak eta Deskarga"></unicode>
         <string role="key" value="idevices"></string>
         <list>
          <instance class="exe.engine.jsidevice.JsIdevice" reference="10">
@@ -1358,7 +1358,7 @@ document.addEventListener(&quot;DOMContentLoaded&quot;, function() {
         <string role="key" value="exportType"></string>
         <string value="website"></string>
         <string role="key" value="last_full_node_path"></string>
-        <string value="exe-node:Euskara:-%20Kredituak%20eta%20Deskarga%20-"></string>
+        <string value="exe-node:Euskara:Kredituak%20eta%20Deskarga"></string>
         <string role="key" value="parent"></string>
         <reference key="3"></reference>
         <string role="key" value="top_anchors_linked_from_fields"></string>
@@ -1384,7 +1384,7 @@ document.addEventListener(&quot;DOMContentLoaded&quot;, function() {
   <string role="key" value="backgroundImgTile"></string>
   <bool value="0"></bool>
   <string role="key" value="currentNode"></string>
-  <reference key="7"></reference>
+  <reference key="12"></reference>
   <string role="key" value="dublinCore"></string>
   <instance class="exe.engine.package.DublinCore">
    <dictionary>
