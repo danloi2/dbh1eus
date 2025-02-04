@@ -529,7 +529,7 @@ function toggleGoogleTranslateWidget() {
   <string role="key" value="_intendedEndUserRoleType"></string>
   <unicode value="learner"></unicode>
   <string role="key" value="_isChanged"></string>
-  <bool value="1"></bool>
+  <bool value="0"></bool>
   <string role="key" value="_isTemplate"></string>
   <bool value="0"></bool>
   <string role="key" value="_lang"></string>
@@ -3626,7 +3626,7 @@ $(function() {
             <instance class="exe.engine.jsidevice.JsIdevice" reference="40">
              <dictionary>
               <string role="key" value="_title"></string>
-              <unicode value="NON (bizigabea) eta NORENGAN biziduna)"></unicode>
+              <unicode value="NON (bizigabea) eta NORENGAN (biziduna)"></unicode>
               <string role="key" value="_attributes"></string>
               <list>
                <tuple>
